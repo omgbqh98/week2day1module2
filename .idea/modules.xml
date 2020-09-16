@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BTLopCirclevaLopCylinder/BTLopCirclevaLopCylinder.iml" filepath="$PROJECT_DIR$/BTLopCirclevaLopCylinder/BTLopCirclevaLopCylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/BTPoint2D3D/BTPoint2D3D.iml" filepath="$PROJECT_DIR$/BTPoint2D3D/BTPoint2D3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BTPointVaMoveablePoint/BTPointVaMoveablePoint.iml" filepath="$PROJECT_DIR$/BTPointVaMoveablePoint/BTPointVaMoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/THHecacDoiTuongHinhHoc/THHecacDoiTuongHinhHoc.iml" filepath="$PROJECT_DIR$/THHecacDoiTuongHinhHoc/THHecacDoiTuongHinhHoc.iml" />
       <module fileurl="file://$PROJECT_DIR$/module2week2day1.iml" filepath="$PROJECT_DIR$/module2week2day1.iml" />
     </modules>
