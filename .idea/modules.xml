@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BTLopCirclevaLopCylinder/BTLopCirclevaLopCylinder.iml" filepath="$PROJECT_DIR$/BTLopCirclevaLopCylinder/BTLopCirclevaLopCylinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THHecacDoiTuongHinhHoc/THHecacDoiTuongHinhHoc.iml" filepath="$PROJECT_DIR$/THHecacDoiTuongHinhHoc/THHecacDoiTuongHinhHoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2week2day1.iml" filepath="$PROJECT_DIR$/module2week2day1.iml" />
+    </modules>
+  </component>
+</project>
